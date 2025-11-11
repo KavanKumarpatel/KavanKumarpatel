@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Kavan Patel
-**A passionate Web developer || Data scientist **
+** A passionate Web developer || Data scientist **
 
 - 🔭 **I’m currently working on:** Full stack Project
 - 🌱 **I’m currently learning:** Master Mern stack
