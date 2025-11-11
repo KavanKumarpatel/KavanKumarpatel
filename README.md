@@ -1,3 +1,14 @@
+# 💫 Hi 👋, I'm Kavan Patel
+**A passionate Web developer || Data scientist **
+
+- 🔭 **I’m currently working on:** Full stack Project
+- 🌱 **I’m currently learning:** Master Mern stack
+- 📫 **How to reach me:** patelkavan311@gmail.com
+- 😄 **Pronouns:** patel sir
+- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+
+- ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=alamimran613&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:patelkavan311@gmail.com) 
